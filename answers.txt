@@ -19,3 +19,16 @@ patient outcomes using past medical records. Data scientists can assist in ident
 and lifestyle factors. This enables early intervention and individualized treatment approaches.
 This use of data science can result in more effective healthcare systems and better patient care.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: In Git, merging and rebasing are two methods for integrating changes from one branch into another, but they function differently and produce different results.
+A new "merge commit" with two parent commits is produced when changes from one branch are combined into another.
+This keeps a record of the two branches' merger and retains their histories in their original form.
+Because the original branches are still there and their commit history is kept, it is a non-destructive procedure.
+When you wish to preserve both branches' whole histories, including the context of each individual commit, you usually employ merging.
+In contrast, rebasing "re-applies" the commits from one branch and places them on top of another. As a result, there are no merging commits and the history is linear.
+It appears as though the changes in the rebased branch were done immediately on top of the target branch because rebasing basically rewrites the commit history.
+Because rebasing modifies commit hashes and may need resolving conflicts, it might be problematic if the branch has been shared with others, even though it can make the history clearer and easier to follow.
+
+In conclusion: The branch history is preserved and a merging commit is produced.
+By arranging the commits on top of the target branch, rebasing rewrites history and produces a linear history devoid of merging commits.
