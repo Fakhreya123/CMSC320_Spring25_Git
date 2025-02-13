@@ -1,0 +1,10 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is a version control system that lets programmers monitor codebase modifications, which helps them better comprehend how the code changes over time.
+By enabling developers to work on distinct branches, it promotes feature isolation and keeps the stable version of the code uninterrupted.
+Additionally, Git facilitates easy cooperation between developers by allowing each person to work on their own copy of the code while monitoring the contributions of other developers.
+Git facilitates efficient review and merging of changes, improving code quality and teamwork.
+Git also provides strong capabilities for managing version history, resolving disputes, and facilitating remote cooperation.
+Developers can go back to earlier iterations if needed because each commit is tracked with a unique ID.
+Teams can work on separate features and then effortlessly integrate them thanks to Git's branching and merging capabilities.
+All things considered, Git is a crucial tool for collaboration, code change management, and upholding an organized development process.
