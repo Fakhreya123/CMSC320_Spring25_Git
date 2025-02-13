@@ -1,0 +1,7 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Numerous industries, including marketing, banking, healthcare, and even sports, can benefit from the use of data science. Data scientists can find patterns, forecast outcomes,
+and streamline decision-making by utilizing statistical modeling, machine learning, and data analysis. Data science, for instance, can be applied in the healthcare industry to forecast
+patient outcomes using past medical records. Data scientists can assist in identifying people who are more susceptible to specific diseases by examining medical histories, patient records,
+and lifestyle factors. This enables early intervention and individualized treatment approaches.
+This use of data science can result in more effective healthcare systems and better patient care.
