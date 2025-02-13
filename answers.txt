@@ -32,3 +32,13 @@ Because rebasing modifies commit hashes and may need resolving conflicts, it mig
 
 In conclusion: The branch history is preserved and a merging commit is produced.
 By arranging the commits on top of the target branch, rebasing rewrites history and produces a linear history devoid of merging commits.
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm excited to learn more about the fundamental ideas of data science this semester in CMSC320.
+Applying data manipulation strategies, dealing with actual datasets, and learning how to use analysis tools like Python excite me.
+I'm really excited to investigate machine learning models and their potential applications for insights and predictions across a range of domains.
+Building practical abilities that I can utilize in my future job will be made possible by the practical projects and the chance to apply these ideas to address real-world issues.
+I'm also excited to learn more about the ethical implications of data science, particularly with regard to privacy and equity, since I think these topics are becoming more and more important in the data-driven world of today.
+
